@@ -1,2 +1,2 @@
-# DevOpsPros
-DevOpsPros
+# Week0 Exercise
+Python basics
